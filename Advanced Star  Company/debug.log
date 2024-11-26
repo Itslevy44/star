@@ -1,0 +1,90 @@
+Raw input: 
+Decoded data: 
+Raw input: {"user_id":45,"balance_id":79,"amount":1000,"mpesaCode":"MPESA264889","transactionDate":"2024-11-19T19:18:09.372Z","phoneNumber":"25471869060"}
+Decoded data: Array
+(
+    [user_id] => 45
+    [balance_id] => 79
+    [amount] => 1000
+    [mpesaCode] => MPESA264889
+    [transactionDate] => 2024-11-19T19:18:09.372Z
+    [phoneNumber] => 25471869060
+)
+
+Raw input: {"user_id":510,"balance_id":59,"amount":1000,"mpesaCode":"MPESA955644","transactionDate":"2024-11-19T19:18:59.227Z","phoneNumber":"254718690760"}
+Decoded data: Array
+(
+    [user_id] => 510
+    [balance_id] => 59
+    [amount] => 1000
+    [mpesaCode] => MPESA955644
+    [transactionDate] => 2024-11-19T19:18:59.227Z
+    [phoneNumber] => 254718690760
+)
+
+Raw input: {"user_id":848,"balance_id":83,"amount":1000,"mpesaCode":"MPESA77734","transactionDate":"2024-11-19T19:25:17.450Z","phoneNumber":"254718690760"}
+Decoded data: Array
+(
+    [user_id] => 848
+    [balance_id] => 83
+    [amount] => 1000
+    [mpesaCode] => MPESA77734
+    [transactionDate] => 2024-11-19T19:25:17.450Z
+    [phoneNumber] => 254718690760
+)
+
+Raw input: {"user_id":843,"balance_id":51,"amount":1000,"mpesaCode":"MPESA699310","transactionDate":"2024-11-19T19:25:21.268Z","phoneNumber":"254718690760"}
+Decoded data: Array
+(
+    [user_id] => 843
+    [balance_id] => 51
+    [amount] => 1000
+    [mpesaCode] => MPESA699310
+    [transactionDate] => 2024-11-19T19:25:21.268Z
+    [phoneNumber] => 254718690760
+)
+
+Raw input: {"user_id":787,"balance_id":71,"amount":1000,"mpesaCode":"MPESA173043","transactionDate":"2024-11-19T19:25:22.714Z","phoneNumber":"254718690760"}
+Decoded data: Array
+(
+    [user_id] => 787
+    [balance_id] => 71
+    [amount] => 1000
+    [mpesaCode] => MPESA173043
+    [transactionDate] => 2024-11-19T19:25:22.714Z
+    [phoneNumber] => 254718690760
+)
+
+Raw input: {"user_id":288,"balance_id":5,"amount":1000,"mpesaCode":"MPESA313112","transactionDate":"2024-11-19T19:25:45.349Z","phoneNumber":"254718690760"}
+Decoded data: Array
+(
+    [user_id] => 288
+    [balance_id] => 5
+    [amount] => 1000
+    [mpesaCode] => MPESA313112
+    [transactionDate] => 2024-11-19T19:25:45.349Z
+    [phoneNumber] => 254718690760
+)
+
+Raw input: {"user_id":252,"balance_id":17,"amount":500,"mpesaCode":"MPESA622885","transactionDate":"2024-11-19T19:30:55.287Z","phoneNumber":"254718690760"}
+Decoded data: Array
+(
+    [user_id] => 252
+    [balance_id] => 17
+    [amount] => 500
+    [mpesaCode] => MPESA622885
+    [transactionDate] => 2024-11-19T19:30:55.287Z
+    [phoneNumber] => 254718690760
+)
+
+Raw input: {"user_id":272,"balance_id":54,"amount":100,"mpesaCode":"MPESA695992","transactionDate":"2024-11-19T19:35:31.688Z","phoneNumber":"24718690760"}
+Decoded data: Array
+(
+    [user_id] => 272
+    [balance_id] => 54
+    [amount] => 100
+    [mpesaCode] => MPESA695992
+    [transactionDate] => 2024-11-19T19:35:31.688Z
+    [phoneNumber] => 24718690760
+)
+

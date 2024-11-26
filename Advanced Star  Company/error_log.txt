@@ -1,0 +1,19 @@
+Invalid request data: 
+Invalid request data: Array
+(
+    [transactionRef] => TRXM3SCNV06ISY22
+    [phone] => 254718690760
+    [amount] => 1000
+    [timestamp] => 2024-11-22T06:17:58.710Z
+)
+
+Invalid request data: Array
+(
+    [transactionRef] => TRXM3SCNXPPW584F
+    [phone] => 254718690760
+    [amount] => 1000
+    [timestamp] => 2024-11-22T06:18:02.221Z
+)
+
+Transaction error: Unknown column 'id' in 'order clause'
+Transaction error: Unknown column 'id' in 'order clause'

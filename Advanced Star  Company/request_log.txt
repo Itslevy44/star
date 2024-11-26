@@ -1,0 +1,407 @@
+
+Array
+(
+    [user_id] => 367
+    [balance_id] => 48
+    [amount] => 300
+    [mpesaCode] => MPESA550936
+    [transactionDate] => 2024-11-19T19:49:05.930Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 118
+    [balance_id] => 20
+    [amount] => 400
+    [mpesaCode] => MPESA983843
+    [transactionDate] => 2024-11-19T20:00:36.783Z
+    [phoneNumber] => 25471867755
+)
+
+Array
+(
+    [user_id] => 429
+    [balance_id] => 89
+    [amount] => 200
+    [mpesaCode] => MPESA448226
+    [transactionDate] => 2024-11-19T20:22:14.140Z
+    [phoneNumber] => 54718690760
+)
+
+Array
+(
+    [user_id] => 170
+    [balance_id] => 15
+    [amount] => 200
+    [mpesaCode] => MPESA221968
+    [transactionDate] => 2024-11-19T21:11:14.059Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 462
+    [balance_id] => 25
+    [amount] => 350
+    [mpesaCode] => MPESA472094
+    [transactionDate] => 2024-11-20T06:35:14.072Z
+    [phoneNumber] => 0111242576
+)
+
+Array
+(
+    [user_id] => 636
+    [balance_id] => 26
+    [amount] => 1000
+    [mpesaCode] => MPESA999381
+    [transactionDate] => 2024-11-21T19:14:17.408Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 539
+    [balance_id] => 59
+    [amount] => 1000
+    [mpesaCode] => MPESA291227
+    [transactionDate] => 2024-11-21T19:14:18.370Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 727
+    [balance_id] => 38
+    [amount] => 200
+    [mpesaCode] => MPESA446553
+    [transactionDate] => 2024-11-21T19:14:34.958Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 541
+    [balance_id] => 73
+    [amount] => 1000
+    [mpesaCode] => MPESA453395
+    [transactionDate] => 2024-11-22T06:16:02.492Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [transactionRef] => TRXM3SCNV06ISY22
+    [phone] => 254718690760
+    [amount] => 1000
+    [timestamp] => 2024-11-22T06:17:58.710Z
+)
+
+Array
+(
+    [transactionRef] => TRXM3SCNXPPW584F
+    [phone] => 254718690760
+    [amount] => 1000
+    [timestamp] => 2024-11-22T06:18:02.221Z
+)
+
+Array
+(
+    [user_id] => 162
+    [balance_id] => 21
+    [amount] => 1000
+    [mpesaCode] => MPESA810954
+    [transactionDate] => 2024-11-22T06:52:59.009Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 708
+    [balance_id] => 42
+    [amount] => 1000
+    [mpesaCode] => MPESA972854
+    [transactionDate] => 2024-11-22T06:57:42.575Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 542
+    [balance_id] => 96
+    [amount] => 1000
+    [mpesaCode] => MPESA784849
+    [transactionDate] => 2024-11-22T06:59:12.357Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 633
+    [balance_id] => 90
+    [amount] => 1000
+    [mpesaCode] => MPESA656378
+    [transactionDate] => 2024-11-22T07:10:40.807Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 411
+    [balance_id] => 60
+    [amount] => 200
+    [mpesaCode] => MPESA286879
+    [transactionDate] => 2024-11-22T07:11:03.232Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 187
+    [balance_id] => 31
+    [amount] => 200
+    [mpesaCode] => MPESA30976
+    [transactionDate] => 2024-11-22T07:13:55.459Z
+    [phoneNumber] => 25471869
+)
+
+Array
+(
+    [user_id] => 719
+    [balance_id] => 36
+    [amount] => 200
+    [mpesaCode] => MPESA738572
+    [transactionDate] => 2024-11-22T07:14:04.374Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 575
+    [balance_id] => 25
+    [amount] => 150
+    [mpesaCode] => MPESA417634
+    [transactionDate] => 2024-11-22T07:15:24.116Z
+    [phoneNumber] => 25471860760
+)
+
+Array
+(
+    [user_id] => 92
+    [balance_id] => 81
+    [amount] => 200
+    [mpesaCode] => MPESA18187
+    [transactionDate] => 2024-11-22T07:45:37.797Z
+    [phoneNumber] => 54718690760
+)
+
+Array
+(
+    [user_id] => 101
+    [balance_id] => 22
+    [amount] => 100
+    [mpesaCode] => MPESA622830
+    [transactionDate] => 2024-11-22T07:58:05.391Z
+    [phoneNumber] => 0718690760
+)
+
+Array
+(
+    [user_id] => 863
+    [balance_id] => 78
+    [amount] => 200
+    [mpesaCode] => MPESA823606
+    [transactionDate] => 2024-11-22T08:00:42.347Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 235
+    [balance_id] => 11
+    [amount] => 100
+    [mpesaCode] => MPESA991622
+    [transactionDate] => 2024-11-22T10:45:41.444Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 922
+    [balance_id] => 66
+    [amount] => 2000
+    [mpesaCode] => MPESA321882
+    [transactionDate] => 2024-11-22T10:59:08.796Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 180
+    [balance_id] => 8
+    [amount] => 200
+    [mpesaCode] => MPESA248884
+    [transactionDate] => 2024-11-23T20:28:04.678Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 806
+    [balance_id] => 66
+    [amount] => 200
+    [mpesaCode] => MPESA857217
+    [transactionDate] => 2024-11-23T20:29:15.712Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 579
+    [balance_id] => 6
+    [amount] => 100
+    [mpesaCode] => MPESA376228
+    [transactionDate] => 2024-11-25T16:00:28.602Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 779
+    [balance_id] => 30
+    [amount] => 100
+    [mpesaCode] => MPESA952082
+    [transactionDate] => 2024-11-25T16:00:31.207Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 977
+    [balance_id] => 87
+    [amount] => 100
+    [mpesaCode] => MPESA605991
+    [transactionDate] => 2024-11-25T16:00:31.795Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 920
+    [balance_id] => 47
+    [amount] => 100
+    [mpesaCode] => MPESA951975
+    [transactionDate] => 2024-11-25T16:00:31.949Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 730
+    [balance_id] => 42
+    [amount] => 150
+    [mpesaCode] => SKP143SCUJ
+    [transactionDate] => 2024-11-25T16:18:42.607Z
+    [phoneNumber] => 254111242576
+)
+
+Array
+(
+    [user_id] => 154
+    [balance_id] => 64
+    [amount] => 150
+    [mpesaCode] => SKP143SCUJ
+    [transactionDate] => 2024-11-25T16:18:46.460Z
+    [phoneNumber] => 254111242576
+)
+
+Array
+(
+    [user_id] => 947
+    [balance_id] => 44
+    [amount] => 150
+    [mpesaCode] => SKP143SCUJ
+    [transactionDate] => 2024-11-25T16:18:47.726Z
+    [phoneNumber] => 254111242576
+)
+
+Array
+(
+    [user_id] => 650
+    [balance_id] => 43
+    [amount] => 150
+    [mpesaCode] => SKP143SCUJ
+    [transactionDate] => 2024-11-25T16:18:50.841Z
+    [phoneNumber] => 254111242576
+)
+
+Array
+(
+    [user_id] => 196
+    [balance_id] => 65
+    [amount] => 150
+    [mpesaCode] => SKP143SCUJ
+    [transactionDate] => 2024-11-25T16:18:51.559Z
+    [phoneNumber] => 254111242576
+)
+
+Array
+(
+    [user_id] => 870
+    [balance_id] => 65
+    [amount] => 150
+    [mpesaCode] => SKP143SCUJ
+    [transactionDate] => 2024-11-25T16:18:52.188Z
+    [phoneNumber] => 254111242576
+)
+
+Array
+(
+    [user_id] => 56
+    [balance_id] => 28
+    [amount] => 150
+    [mpesaCode] => SKP143SCUJ
+    [transactionDate] => 2024-11-25T16:18:52.387Z
+    [phoneNumber] => 254111242576
+)
+
+Array
+(
+    [user_id] => 68
+    [balance_id] => 3
+    [amount] => 150
+    [mpesaCode] => SKP143SCUJ
+    [transactionDate] => 2024-11-25T16:18:52.608Z
+    [phoneNumber] => 254111242576
+)
+
+Array
+(
+    [user_id] => 154
+    [balance_id] => 89
+    [amount] => 150
+    [mpesaCode] => SKP143SCUJ
+    [transactionDate] => 2024-11-25T16:35:16.299Z
+    [phoneNumber] => 254111242576
+)
+
+Array
+(
+    [user_id] => 134
+    [balance_id] => 74
+    [amount] => 150
+    [mpesaCode] => SKP143SCUJ
+    [transactionDate] => 2024-11-25T16:35:39.773Z
+    [phoneNumber] => 254718690760
+)
+
+Array
+(
+    [user_id] => 376
+    [balance_id] => 15
+    [amount] => 150
+    [mpesaCode] => SKP143SCUJ
+    [transactionDate] => 2024-11-25T16:39:50.422Z
+    [phoneNumber] => 254715601868
+)
+
